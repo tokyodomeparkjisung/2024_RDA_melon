@@ -70,4 +70,4 @@ feature_vec2 = feature_vec[1].unsqueeze(0)  # [hidden_size] -> [1, hidden_size]
 predicted_transformation = model(feature_vec1, feature_vec2)
 print(predicted_transformation)
 
-#test
+#test2
